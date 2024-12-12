@@ -6,4 +6,4 @@
 * Github tutorial: https://github.com/skills/deploy-to-azure 
  
 * Here write the link of your own repo down below.
-* **Your own repo link**: https://github.com/Islomchik5666/skills-deploy-to-azure1
+* **Your own repo link**: https://github.com/Islomchik5666/skills-deploy-to-azure12
